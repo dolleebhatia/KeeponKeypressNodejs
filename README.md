@@ -1,7 +1,7 @@
 # KeeponKeypressNodejs
 Controlling Keepon with Processing and Arduino over Node.js
 
-<!-- 
+
                   ,--.    ,--.
                  ((O ))--((O ))
                ,'_`--'____`--'_`.
@@ -30,4 +30,4 @@ Controlling Keepon with Processing and Arduino over Node.js
                (_______)(_______)
               |        ||        |
               '--------''--------'
--->
+
